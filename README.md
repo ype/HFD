@@ -9,5 +9,5 @@
 
 ## Data Sources
 
-- Yahoo: https://query1.finance.yahoo.com/v8/finance/chart/`{STOCK_SYMBOL}`
-- NASDAQ: https://api.nasdaq.com/api/quote/`{STOCK_SYMBOL}`/info?assetclass=stocks
+- Yahoo: `https://query1.finance.yahoo.com/v8/finance/chart/{STOCK_SYMBOL}`
+- NASDAQ: `https://api.nasdaq.com/api/quote/{STOCK_SYMBOL}/info?assetclass=stocks`
