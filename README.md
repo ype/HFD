@@ -1,6 +1,6 @@
-# HFD
+# Flat
 
-### HFD: a tool for generating a flat file store of historical financial data
+### Flat: a tool for generating a flat file store of historical financial data
 
 ## Features
 
